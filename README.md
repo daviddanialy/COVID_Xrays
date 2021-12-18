@@ -1,2 +1,2 @@
-# URL_Testing
-Website with a machine learning model in the backend to determine whether a website URL is malicious or safe.
+# COVID_Xrays
+Website with a machine learning model in the backend to determine whether a chest Xray indicates COVID.
